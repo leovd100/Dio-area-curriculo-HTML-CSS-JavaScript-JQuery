@@ -1,4 +1,4 @@
-@media (max-width:  1300px){
+@media (max-width:  1200px){
 
     #logo{
         width: 100px;
@@ -14,9 +14,12 @@
       
     
     }
-    #conteudo .info{
-        top: 59%;        
+    .info{
+        display: inline;
+        position: absolute;
+        top: 55%;
         left: 10%;
+        font-size: 16px;
     }
   
 
