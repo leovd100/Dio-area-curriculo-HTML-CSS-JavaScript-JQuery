@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#conteudo{
+    padding: 50px;
+    width: 80%;
+    border-radius: 15px;
+    margin: 30px auto ;
+    
+}
+
+.lista{
+    border-radius: 18px;
+    padding: 15px;
+    margin: 0px auto 0px 0px;    
+    width: 480px; 
+    max-width: 900px;
+}
+
+
+.lista .item{
+    border-radius: 5px;
+    margin: 10px 0px 15px 8px;
+    width: 50px;
+}
+
+
+
+#name{
+    margin-top: 50px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+
+
+header{
+
+    width:60% ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10%;
+  
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    
+}
+#ind{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+#ind hr{
+    margin-top: 3%;
+    width: 160%;
+    height: 1px
+}
+
+#foto{
+    z-index: 1;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.fa-cog{
+    position: absolute;
+    top:8%;
+    right: 7.5%;
+
+  
+    font-size: 30px;
+    color: lightgreen;
+  
+
+}
+
+.info{
+    color: white;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    position: absolute;
+    right: 38%;
+    top:75%; 
+    padding: 0;
+    margin: 0;
+}
+
+#logo{
+    position: absolute;
+    left: 10%;
+    width: 200px;
+
+}
+
+#container-graphic{
+   border-radius: 15px;
+    position: absolute;
+    width: 35%;
+    right: 18%;
+    top: 92%;
+
+}

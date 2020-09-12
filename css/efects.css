@@ -1,0 +1,54 @@
+body{
+    background-color: #001;
+}
+
+#conteudo{
+    background-color: rgba(4, 4, 26, 0.972);
+    box-shadow:5px 5px 12px #0f0;
+    border:2px solid #0f0;
+}
+
+
+.lista{
+    border: 1px solid rgb(255, 0, 22);
+    box-shadow: 2px 2px 15px rgb(0, 132, 255);   
+    background-color: rgba(4, 4, 20, 1);
+
+}
+
+.lista .item{
+    box-shadow: 1px 1px 4px blue;
+}
+
+.lista .item:hover{
+    transition: 0.7s;
+    width: 65px;
+    box-shadow: 4px 4px 15px rgb(0, 110, 255);
+}
+
+
+#ind hr{
+    box-shadow:5px 5px 19px #0f0;
+    background: #0f0;
+}
+#foto{
+    background-color: black;
+    box-shadow: 2px 2px 15px chartreuse;
+}
+
+.fa-cog{
+    text-shadow: 2px 2px 8px green;
+    transition: 1s;
+}
+
+.fa-cog:hover{
+    transition: 2s;
+    transform: rotate(180deg);
+}
+
+
+#container-graphic{
+   border: 2px solid red;
+    box-shadow: 2px 2px 15px red;
+    
+}

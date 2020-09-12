@@ -1,0 +1,39 @@
+@media (max-width:  1300px){
+
+    #logo{
+        width: 100px;
+        top: 8%;
+    }
+    .fa-cog{
+        position: absolute;
+        top:8%;
+        right: 6%;
+        font-size: 20px;
+      
+        color: lightgreen;
+      
+    
+    }
+    #conteudo .info{
+        top: 59%;        
+        left: 10%;
+    }
+  
+
+    #conteudo .lista{
+        position: relative;
+        margin-top: 120px;
+    }
+
+    #container-graphic{
+        width: 500px;
+        position: relative;
+        margin-top: 15%;
+       right: 3px;
+        
+    }
+
+
+
+
+}
